@@ -1,0 +1,12 @@
+h1::first-letter{
+    font-size: 100px;
+    color: red;
+    background-color: yellow;
+
+}
+h3::before{
+    content: url(../images/Common_seal.jpg)
+}
+h3::after{
+    content: url(../images/Common_seal.jpg)
+}
